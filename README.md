@@ -1,41 +1,41 @@
-### Proyecto-Final-Máster
+### Final Master's Project
 
-#### Descripción
+#### Description
 
-Este repositorio alberga el proyecto DSMarket, desarrollado por Daniela Quenti, Silvia Julià y Wesley Tizzard como parte del Máster en Data Science & AI de Nuclio Digital School en Barcelona. El proyecto se enfoca en la transformación digital de DSMarket, una empresa minorista operante en tres regiones de EE.UU. Su objetivo es redefinir los procesos operativos de la compañía utilizando técnicas avanzadas de ciencia de datos e inteligencia artificial.
+This repository houses the DSMarket project, developed by Daniela Quenti, Silvia Julià, and Wesley Tizzard as part of the Master's in Data Science & AI at Nuclio Digital School in Barcelona. The project focuses on the digital transformation of DSMarket, a retail company operating in three regions of the USA. Its goal is to redefine the company's operational processes using advanced data science and artificial intelligence techniques.
 
-#### Introducción
+#### Introduction
 
-En un entorno empresarial cada vez más digitalizado, DSMarket reconoce la necesidad de adoptar enfoques basados en datos para mantenerse competitiva. El principal objetivo del proyecto es convertir a DSMarket en una empresa orientada a los datos, capaz de tomar decisiones estratégicas fundamentadas en análisis y pronósticos precisos.
+In an increasingly digitalized business environment, DSMarket recognizes the need to adopt data-driven approaches to remain competitive. The main objective of the project is to transform DSMarket into a data-oriented company, capable of making strategic decisions based on precise analyses and forecasts.
 
-#### Justificación y Contextualización
+#### Justification and Contextualization
 
-El sector minorista es extremadamente competitivo y dinámico, y la optimización basada en datos puede ser crucial. DSMarket debe adaptarse rápidamente a las cambiantes expectativas de los consumidores y mejorar su eficiencia operativa para mantener su posición en el mercado.
+The retail sector is extremely competitive and dynamic, and data-driven optimization can be crucial. DSMarket must quickly adapt to changing consumer expectations and improve operational efficiency to maintain its market position.
 
-#### Objetivos
+#### Objectives
 
-**Objetivo General**
+**General Objective**
 
-Transformar DSMarket en una empresa ágil, centrada en el cliente y basada en datos, maximizando su potencial de crecimiento y manteniendo su liderazgo en la industria.
+Transform DSMarket into an agile, customer-centric, data-driven company, maximizing its growth potential and maintaining its industry leadership.
 
-**Objetivos Específicos**
+**Specific Objectives**
 
-- Mejorar los procesos internos mediante soluciones de inteligencia artificial y aprendizaje automático.
-- Mejorar la experiencia del consumidor a través del análisis de datos.
-- Anticipar las tendencias del mercado mediante modelos de pronóstico avanzados.
-- Fomentar una cultura empresarial basada en datos para la toma de decisiones.
+- Improve internal processes through artificial intelligence and machine learning solutions.
+- Enhance the consumer experience through data analysis.
+- Anticipate market trends using advanced forecasting models.
+- Foster a data-driven business culture for decision-making.
 
-#### Metodología Empleada
+#### Methodology
 
-El proyecto se divide en cuatro tareas principales:
+The project is divided into four main tasks:
 
-1. **Visualización en PowerBI**: Preparación y visualización de datos para identificar patrones y tendencias.
-2. **Clustering**: Agrupación de productos para optimizar estrategias de venta y gestión de inventarios.
-3. **Predicción de Ventas**: Utilización de modelos XGBoost para prever las ventas futuras.
-4. **Store Replenishment Use Case**: Diseño del proceso de implementación del modelo en entornos de producción.
+1. **PowerBI Visualization:** Data preparation and visualization to identify patterns and trends.
+2. **Clustering:** Grouping products to optimize sales strategies and inventory management.
+3. **Sales Prediction:** Using XGBoost models to forecast future sales.
+4. **Store Replenishment Use Case:** Designing the process of implementing the model in production environments.
 
-#### Resultados
+#### Results
 
-El proyecto ha desarrollado modelos y herramientas que permiten a DSMarket tomar decisiones más informadas y estratégicas, mejorando su competitividad y eficiencia en el mercado minorista.
+The project has developed models and tools that enable DSMarket to make more informed and strategic decisions, improving its competitiveness and efficiency in the retail market.
 
-Para obtener más detalles sobre cada tarea y los resultados obtenidos, consulte la documentación y los archivos de código en este repositorio.
+For more details on each task and the results obtained, please refer to the documentation and code files in this repository.
